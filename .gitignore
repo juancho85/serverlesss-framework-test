@@ -1,5 +1,6 @@
-# IntelliJ project files
-.idea
-*.iml
-out
-gen
+# package directories
+node_modules
+jspm_packages
+
+# Serverless directories
+/.idea/*
